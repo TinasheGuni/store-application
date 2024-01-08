@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/splash.jpg</file>
+        <file>icons/backup.png</file>
+        <file>icons/box_icon.ico</file>
+        <file>icons/exit.png</file>
+        <file>icons/help.png</file>
+        <file>icons/info.png</file>
+        <file>icons/restore.png</file>
+        <file>icons/server_icon.ico</file>
+    </qresource>
+</RCC>
